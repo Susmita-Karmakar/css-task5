@@ -72,6 +72,21 @@ body{
 	width: 100%;
 }
 
+.fa-caret-up{
+    visibility: hidden;
+    position: relative;
+    left: 15px;
+}
+.fa-caret-down{
+    visibility: visible;
+}
+li:hover .fa-caret-up{
+    visibility: visible;
+}
+li:hover .fa-caret-down{
+    visibility: hidden;
+}
+
 .navbar-2 li:hover .container-1{
 	background-color: #ffffff;
 	width:70%;
