@@ -104,7 +104,6 @@ li:hover .fa-caret-down{
 
 .navbar-2 li:hover a{
 		color: #56ab2f;
-		font-size: 30px;
 		font-weight: 400;
 }
 
@@ -169,11 +168,6 @@ li:hover .fa-caret-down{
 	background-color: #ffffff;
 }
 
-.navbar-2 li:hover a{
-		color: #56ab2f;
-		font-size: 30px;
-		font-weight: 400;
-}
 
 .navbar-2 li:hover .container-2 ul{
 	margin-top: 10px;
@@ -237,11 +231,7 @@ li:hover .fa-caret-down{
 	background-color: #ffffff;
 }
 
-.navbar-2 li:hover a{
-		color: #56ab2f;
-		font-size: 30px;
-		font-weight: 400;
-}
+
 
 .navbar-2 li:hover .container-3 ul{
 	margin-top: 10px;
@@ -305,11 +295,6 @@ li:hover .fa-caret-down{
 	background-color: #ffffff;
 }
 
-.navbar-2 li:hover a{
-		color: #56ab2f;
-		font-size: 30px;
-		font-weight: 400;
-}
 
 .navbar-2 li:hover .container-4 ul{
 	margin-top: 10px;
